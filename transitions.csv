@@ -1,0 +1,5 @@
+start,transition,end
+authorization_pin,feed_operations,main
+feed_payment_details_operation,action_operation_repeat,payment_contragent_sum
+menu_payments,feed_operations,main
+menu_payments,payment_start,payment_contagenet_initial
